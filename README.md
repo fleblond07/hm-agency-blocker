@@ -1,1 +1,1 @@
-List of used domains for the hm-agency company - This list can be used to block all their spam and is updated daily 
+Initially this was a list of domain belonging a HM-Agency - which sends out unsolicited spams - This now is a list of domains that sends out spam not necessarly from HM-Agency
